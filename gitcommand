@@ -1,0 +1,50 @@
+cd cecfgb3
+git add 1.txt
+git add %1.txt%
+git add C:\Users\321\cecfgb3\1.txt
+cd ..
+git clone https://github.com/dmitrycec/cecfgb3
+cd cecfgb3
+git status
+git checkout testbranch1
+git status
+git checkout master
+git checkout testbranch1
+git status
+git config -list
+git config --list
+git remote show origin
+git show origin
+git remote show origin
+git config --list
+git remote show origin
+git status
+git add 1.txt
+git commit
+git commit -m
+git commit -m firstcommitonbracnh1
+git pull
+git push
+history
+hist
+doskey/history
+doskey/history >gitcommand
+git fetch https://www.guru99.com/selenium-github
+git fetch https://github.com/dmitrycec/cecfgb3
+git -list
+git --list
+git congig --list
+git config --list
+git checkout testbranch1
+git clone https://github.com/dmitrycec/cecfgb3
+git checkout testbranch1
+git config --list
+git status
+git remote show origin
+git fetch https://github.com/dmitrycec/cecfgb3
+git show origin
+git remote show origin
+git checkout testbranch1
+cd ..
+git fetch https://github.com/dmitrycec/cecfgb3
+git clone https://github.com/dmitrycec/cecfgb3
